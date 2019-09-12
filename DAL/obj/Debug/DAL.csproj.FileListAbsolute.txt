@@ -1,0 +1,24 @@
+F:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\DAL\bin\Debug\DAL.dll
+F:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\DAL\bin\Debug\DAL.pdb
+F:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\DAL\bin\Debug\Models.dll
+F:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\DAL\bin\Debug\Models.pdb
+F:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\DAL\obj\Debug\DAL.dll
+F:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\DAL\obj\Debug\DAL.pdb
+D:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\DAL\bin\Debug\DAL.dll
+D:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\DAL\bin\Debug\DAL.pdb
+D:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\DAL\bin\Debug\Models.dll
+D:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\DAL\bin\Debug\Models.pdb
+D:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\DAL\obj\Debug\DAL.dll
+D:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\DAL\obj\Debug\DAL.pdb
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\DAL\bin\Debug\DAL.dll
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\DAL\bin\Debug\DAL.pdb
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\DAL\bin\Debug\Models.dll
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\DAL\bin\Debug\Models.pdb
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\DAL\obj\Debug\DAL.dll
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\DAL\obj\Debug\DAL.pdb

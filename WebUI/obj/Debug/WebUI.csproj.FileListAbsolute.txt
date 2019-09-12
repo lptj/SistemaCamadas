@@ -1,0 +1,10 @@
+F:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\WebUI\bin\WebUI.dll.config
+F:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\WebUI\bin\WebUI.dll
+F:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\WebUI\bin\WebUI.pdb
+F:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\WebUI\bin\DAL.dll
+F:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\WebUI\bin\Models.dll
+F:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\WebUI\bin\DAL.pdb
+F:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\WebUI\bin\Models.pdb
+F:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\WebUI\obj\Debug\WebUI.csprojResolveAssemblyReference.cache
+F:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\WebUI\obj\Debug\WebUI.dll
+F:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\WebUI\obj\Debug\WebUI.pdb

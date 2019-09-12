@@ -1,0 +1,17 @@
+F:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\Models\bin\Debug\Models.dll
+F:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\Models\bin\Debug\Models.pdb
+F:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+F:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\Models\obj\Debug\Models.dll
+F:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\Models\obj\Debug\Models.pdb
+D:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\Models\bin\Debug\Models.dll
+D:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\Models\bin\Debug\Models.pdb
+D:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+D:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+D:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\Models\obj\Debug\Models.dll
+D:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\Models\obj\Debug\Models.pdb
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\Models\bin\Debug\Models.dll
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\Models\bin\Debug\Models.pdb
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\Models\obj\Debug\Models.dll
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\Models\obj\Debug\Models.pdb

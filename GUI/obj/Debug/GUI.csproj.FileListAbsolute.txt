@@ -1,0 +1,57 @@
+F:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\bin\Debug\GUI.exe
+F:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\bin\Debug\GUI.pdb
+F:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+F:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\obj\Debug\GUI.frmCadastroCarro.resources
+F:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\obj\Debug\GUI.frmPrincipal.resources
+F:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\obj\Debug\GUI.Properties.Resources.resources
+F:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+F:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\obj\Debug\GUI.exe
+F:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\obj\Debug\GUI.pdb
+F:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\bin\Debug\DAL.dll
+F:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\bin\Debug\Models.dll
+F:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\bin\Debug\DAL.pdb
+F:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\bin\Debug\Models.pdb
+F:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\obj\Debug\GUI.frmCadastroPessoa.resources
+F:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\bin\Debug\GUI.exe.config
+F:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\obj\Debug\GUI.frmCadastroCategoria.resources
+F:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\obj\Debug\GUI.frmTesteExcecao.resources
+F:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\obj\Debug\GUI.frmCadastroJogo.resources
+D:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\bin\Debug\GUI.exe.config
+D:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\bin\Debug\GUI.exe
+D:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\bin\Debug\GUI.pdb
+D:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\bin\Debug\DAL.dll
+D:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\bin\Debug\Models.dll
+D:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\bin\Debug\DAL.pdb
+D:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\bin\Debug\Models.pdb
+D:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\obj\Debug\GUI.frmCadastroCarro.resources
+D:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\obj\Debug\GUI.frmCadastroCategoria.resources
+D:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\obj\Debug\GUI.frmCadastroJogo.resources
+D:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\obj\Debug\GUI.frmCadastroPessoa.resources
+D:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\obj\Debug\GUI.frmPrincipal.resources
+D:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\obj\Debug\GUI.frmTesteExcecao.resources
+D:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\obj\Debug\GUI.exe
+D:\Esamc\4º Semestre\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\obj\Debug\GUI.pdb
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\bin\Debug\GUI.exe.config
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\bin\Debug\GUI.exe
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\bin\Debug\GUI.pdb
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\bin\Debug\DAL.dll
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\bin\Debug\Models.dll
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\bin\Debug\DAL.pdb
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\bin\Debug\Models.pdb
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\obj\Debug\GUI.frmCadastroCarro.resources
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\obj\Debug\GUI.frmCadastroCategoria.resources
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\obj\Debug\GUI.frmCadastroJogo.resources
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\obj\Debug\GUI.frmCadastroPessoa.resources
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\obj\Debug\GUI.frmPrincipal.resources
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\obj\Debug\GUI.frmTesteExcecao.resources
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\obj\Debug\GUI.exe
+C:\Users\lp_to\OneDrive\Área de Trabalho\Backup Esamc\DALPP II\Aula 02 - 10-08-2017\Visual Studio\SistemaExemplo\GUI\obj\Debug\GUI.pdb

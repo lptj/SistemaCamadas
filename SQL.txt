@@ -1,0 +1,50 @@
+CREATE DATABASE BDSistemaExemplo
+GO
+
+USE BDSistemaExemplo
+GO
+
+CREATE TABLE Carros(
+CdCarro int PRIMARY KEY IDENTITY,
+DsMarca varchar(60) NOT NULL,
+DsModelo varchar(60) NOT NULL,
+DsCor varchar(60) NOT NULL
+)
+GO
+
+CREATE TABLE Pessoas(
+CdPessoa int PRIMARY KEY IDENTITY,
+DsNome varchar(60) NOT NULL,
+DtNasc datetime NOT NULL
+)
+GO
+
+SELECT * FROM Carros
+SELECT * FROM Pessoas
+
+TRUNCATE TABLE Carros
+
+ALTER TABLE Carros
+ADD Ano int NOT NULL
+
+----------------------------------------------------------------------------------
+
+Aula 28/08/2017
+
+USE BDSistemaExemplo
+
+SELECT * FROM Pessoas
+
+DROP TABLE Pessoas
+
+CREATE TABLE Pessoas
+(
+CdPessoa INT PRIMARY KEY IDENTITY,
+DsNome VARCHAR (100) NOT NULL,
+DtNasc DATETIME NOT NULL,
+Email VARCHAR (100) NOT NULL,
+Sexo CHAR NOT NULL,
+EstadoCivil VARCHAR (20) NOT NULL,
+RecebeEmail BIT NOT NULL,
+RecebeSMS BIT NOT NULL
+)
